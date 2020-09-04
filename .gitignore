@@ -2,6 +2,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python
 
+### Project Files ###
+pywhatkit_dbs.txt
+
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
