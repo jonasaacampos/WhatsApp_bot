@@ -4,7 +4,7 @@ import datetime
 
 # coloque a lista dos números dos destinatários da mensagem aqui
 # separe os contatos por vírgula para mais de 1
-contacts = ['+5544988086437', '+55 44 8428-1838']
+contacts = ['+55XX9xxxxxxxx', '+55 XX xxxx-xxxx']
 message = 'Hello world!'
 
 total_contacts = len(contacts)
